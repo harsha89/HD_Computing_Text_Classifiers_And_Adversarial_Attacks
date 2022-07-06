@@ -1,0 +1,2 @@
+# HD_Computing_Text_Classifiers_And_Adversarial_Attacks
+This repository contains Hyper Dimensional Computing Text Classifiers and Adversarial Attacks using TextAttack framework
